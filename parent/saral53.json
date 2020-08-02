@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "id": "1939",
+      "parent_exercise_id": null,
+      "name": "Pending To-Dos (for course creators)",
+      "slug": "recursion__todo",
+      "sequence_num": 1000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/todo.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1680",
+      "parent_exercise_id": null,
+      "name": "Introduction",
+      "slug": "recursion__introduction",
+      "sequence_num": 2000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/introduction.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1683",
+      "parent_exercise_id": "1683",
+      "name": "Simple Series",
+      "slug": "recursion__patterns/simple-series",
+      "sequence_num": 3000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/patterns/simple-series.md",
+      "submission_type": "url",
+      "childExercises": [
+        {
+          "id": "1684",
+          "parent_exercise_id": "1683",
+          "name": "Alternative Series 1",
+          "slug": "recursion__patterns/alternative-series-1",
+          "sequence_num": 3001,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/patterns/alternative-series-1.md",
+          "submission_type": "url"
+        },
+        {
+          "id": "1685",
+          "parent_exercise_id": "1683",
+          "name": "Alternative Series 2",
+          "slug": "recursion__patterns/alternative-series-2",
+          "sequence_num": 3003,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/patterns/alternative-series-2.md",
+          "submission_type": "url"
+        }
+      ]
+    },
+    {
+      "id": "1692",
+      "parent_exercise_id": null,
+      "name": "Factorial",
+      "slug": "recursion__factorial",
+      "sequence_num": 4000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/factorial.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1690",
+      "parent_exercise_id": null,
+      "name": "Sum Of A List",
+      "slug": "recursion__sum-of-a-list",
+      "sequence_num": 5000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/sum-of-a-list.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1689",
+      "parent_exercise_id": null,
+      "name": "Palindrome String",
+      "slug": "recursion__palindrome-string",
+      "sequence_num": 6000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/palindrome-string.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1686",
+      "parent_exercise_id": null,
+      "name": "Fibonacci Series",
+      "slug": "recursion__fibonacci-series",
+      "sequence_num": 7000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/fibonacci-series.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1687",
+      "parent_exercise_id": null,
+      "name": "Fibonacci Advanced",
+      "slug": "recursion__fibonacci-advanced",
+      "sequence_num": 8000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/fibonacci-advanced.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1688",
+      "parent_exercise_id": null,
+      "name": "Binary Search",
+      "slug": "recursion__binary-search",
+      "sequence_num": 9000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/binary-search.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1792",
+      "parent_exercise_id": null,
+      "name": "Calculate",
+      "slug": "recursion__calculate",
+      "sequence_num": 10000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/calculate.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1691",
+      "parent_exercise_id": null,
+      "name": "Nested Lists",
+      "slug": "recursion__nested-lists",
+      "sequence_num": 11000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/nested-lists.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1693",
+      "parent_exercise_id": null,
+      "name": "Nested Lists Grammar",
+      "slug": "recursion__nested-lists-grammar",
+      "sequence_num": 12000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/nested-lists-grammar.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1694",
+      "parent_exercise_id": null,
+      "name": "Congrats",
+      "slug": "recursion__congrats",
+      "sequence_num": 13000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/congrats.md",
+      "submission_type": null,
+      "childExercises": []
+    }
+  ]
+}

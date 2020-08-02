@@ -1,0 +1,12 @@
+{
+  "id": "1683",
+  "parent_exercise_id": "1683",
+  "name": "Simple Series",
+  "slug": "recursion__patterns/simple-series",
+  "sequence_num": 3000,
+  "review_type": "peer",
+  "solution": null,
+  "content": "```ngMeta\r\nsubmissionType: url\r\n```\r\n\r\n## Pattern\r\n1, 4, 7, 10, 13, 16 ...\r\n\r\n## Hint\r\n- Kisi bhi element ko nikalne ke liye, aapko peechle element mei 3 add karna hai.\r\n- Base Case ka dhyaan rakhein\r\n\r\n## Solution\r\n```python\r\ndef pattern(number):\r\n    if number == 1:\r\n        return 1\r\n    else:\r\n        return pattern(number-1) + 3\r\n```\r\n\r\n\r\n",
+  "submission_type": "url",
+  "github_link": "https://github.com/navgurukul/newton/tree/master/recursion/patterns/simple-series.md"
+}

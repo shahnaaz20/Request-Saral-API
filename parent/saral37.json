@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "id": "1551",
+      "parent_exercise_id": null,
+      "name": "Baseline Assessment",
+      "slug": "english-intermediate__assessment",
+      "sequence_num": 1000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/assessment.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1390",
+      "parent_exercise_id": "1390",
+      "name": "Modals Tutorial",
+      "slug": "english-intermediate__modals/tutorial",
+      "sequence_num": 2000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/modals/tutorial.md",
+      "submission_type": null,
+      "childExercises": [
+        {
+          "id": "1397",
+          "parent_exercise_id": "1390",
+          "name": "Activities",
+          "slug": "english-intermediate__modals/exercises",
+          "sequence_num": 2001,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/modals/exercises.md",
+          "submission_type": null
+        }
+      ]
+    },
+    {
+      "id": "1394",
+      "parent_exercise_id": "1394",
+      "name": "Conditionals - Tutorial",
+      "slug": "english-intermediate__conditionals/tutorial",
+      "sequence_num": 3000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/conditionals/tutorial.md",
+      "submission_type": null,
+      "childExercises": [
+        {
+          "id": "1396",
+          "parent_exercise_id": "1394",
+          "name": "Condtitionals - Exercises",
+          "slug": "english-intermediate__conditionals/exercises",
+          "sequence_num": 3001,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/conditionals/exercises.md",
+          "submission_type": null
+        }
+      ]
+    },
+    {
+      "id": "1403",
+      "parent_exercise_id": "1403",
+      "name": "Comparatives - Tutorial",
+      "slug": "english-intermediate__comparatives/tutorial",
+      "sequence_num": 4000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/comparatives/tutorial.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1404",
+      "parent_exercise_id": null,
+      "name": "Inspite Of - Despite",
+      "slug": "english-intermediate__inspite",
+      "sequence_num": 5000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/inspite.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1405",
+      "parent_exercise_id": "1405",
+      "name": "Taboo",
+      "slug": "english-intermediate__taboo/taboo",
+      "sequence_num": 6000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/taboo/taboo.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1395",
+      "parent_exercise_id": "1395",
+      "name": "Listening - Exercises",
+      "slug": "english-intermediate__listening/exercises",
+      "sequence_num": 7000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/listening/exercises.md",
+      "submission_type": null,
+      "childExercises": [
+        {
+          "id": "1398",
+          "parent_exercise_id": "1395",
+          "name": "TedX Talks",
+          "slug": "english-intermediate__listening/tedx",
+          "sequence_num": 7001,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/english-intermediate/listening/tedx.md",
+          "submission_type": null
+        }
+      ]
+    }
+  ]
+}

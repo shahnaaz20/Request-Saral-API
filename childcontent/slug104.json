@@ -1,0 +1,12 @@
+{
+  "id": "2357",
+  "parent_exercise_id": "2347",
+  "name": "Question 7",
+  "slug": "dictionary__Questions/question7",
+  "sequence_num": 7007,
+  "review_type": "peer",
+  "solution": null,
+  "content": "```ngMeta\nname:  Question 7\nsubmission_type: url\n```\n\n\nEk list lijiye aur uske andar dictionaries me keys and values likhiye jaisa ki niche dikhaya gaya hai (Sample Data) aur uske baad saare unique values ko ek list me print karaye.\n\n**Example :-**\n\n\n`Input :-`\n```python\n [\n     {\"first\":\"1\"}, \n     {\"second\": \"2\"}, \n     {\"third\": \"1\"}, \n     {\"four\": \"5\"}, \n     {\"five\":\"5\"}, \n     {\"six\":\"9\"},\n     {\"seven\":\"7\"}\n]\n ```\n\n`Output :- `\n``` \n[2', '7', '9', '5', '1'] \n```",
+  "submission_type": "url",
+  "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question7.md"
+}

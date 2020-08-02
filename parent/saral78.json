@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": "1951",
+      "parent_exercise_id": null,
+      "name": "Contents",
+      "slug": "english-201__Contents",
+      "sequence_num": 1000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Contents.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1952",
+      "parent_exercise_id": null,
+      "name": "Conjunctions",
+      "slug": "english-201__Conjunctions",
+      "sequence_num": 2000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Conjunctions.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1953",
+      "parent_exercise_id": null,
+      "name": "Adjectives",
+      "slug": "english-201__Adjectives",
+      "sequence_num": 3000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Adjectives.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1954",
+      "parent_exercise_id": null,
+      "name": "Prepositions",
+      "slug": "english-201__Prepositions",
+      "sequence_num": 4000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Prepositions.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1975",
+      "parent_exercise_id": null,
+      "name": "Word Order",
+      "slug": "english-201__Word_Order",
+      "sequence_num": 5000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Word_Order.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "2022",
+      "parent_exercise_id": null,
+      "name": "Samvaad",
+      "slug": "english-201__Samvaad",
+      "sequence_num": 6000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Samvaad.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1976",
+      "parent_exercise_id": null,
+      "name": "Vocabulary",
+      "slug": "english-201__Vocabulary",
+      "sequence_num": 7000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Vocabulary.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1983",
+      "parent_exercise_id": null,
+      "name": "Talk About Daily Routine",
+      "slug": "english-201__Talk_About_Daily_Routine",
+      "sequence_num": 8000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Talk_About_Daily_Routine.md",
+      "submission_type": null,
+      "childExercises": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2364",
+  "parent_exercise_id": "2347",
+  "name": "Question 14",
+  "slug": "dictionary__Questions/question14",
+  "sequence_num": 7014,
+  "review_type": "peer",
+  "solution": null,
+  "content": "```ngMeta\nname:  Question 14\nsubmission_type: url\n```\n\nEk program likho jo ki dictionaries ki values ko sort(ascending or descending) kar de.\n\n\n`Input :- `\n\n```\n{'bijender':45,'deepak':60,'param':20,';'anjili':30,'roshini':50}\n ```\n\n```\nExpected result in Ascending Order:\n\n{'param':20,'anjili':30,'bijender':45,'roshini':50,'deepak':60}\n ```\n```\nExpected result in Descending Order:\n\n{'deepak':60,'roshini':50,'bijender':45,'anjili':30,'param':20}\n ```\n\n",
+  "submission_type": "url",
+  "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question14.md"
+}
